@@ -1,0 +1,7 @@
+name: tf-env
+dependencies:
+  - tensorflow
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyter
